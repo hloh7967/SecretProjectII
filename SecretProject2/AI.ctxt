@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AI()
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ AI\r\n
+comment1.params=input
+comment1.target=java.lang.String\ response(int)
+comment2.params=in
+comment2.target=void\ memory(java.lang.String)
+numComments=3
